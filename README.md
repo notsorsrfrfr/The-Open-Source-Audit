@@ -89,19 +89,3 @@ GNU General Public License v2 or later —
 consistent with Blender's own license.
 ```
 
-Click **"Commit changes"** when done.
-
----
-
-## Step 4 — Verify Repository Structure
-
-Your repo should look like this:
-```
-oss-audit-22BCE1234/
-│
-├── README.md
-├── script1_system_identity.sh
-├── script2_package_inspector.sh
-├── script3_disk_auditor.sh
-├── script4_log_analyzer.sh
-└── script5_manifesto_generator.sh

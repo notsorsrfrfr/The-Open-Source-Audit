@@ -1,7 +1,7 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: [Your Name]
-# Registration: [Your Reg Number]
+# Author: Sanidhya Raj
+# Registration: 24BAI10494
 # Course: Open Source Software
 # Software Chosen: Blender
 
